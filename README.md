@@ -1,6 +1,9 @@
 # Personal Portfolio
 
-A modern, responsive personal portfolio website built with React and Tailwind CSS, featuring a permanent dark mode theme.
+A modern, responsive personal portfolio website built with React and Tailwind CSS, featuring a permanent dark mode theme. 
+
+# Note
+Built using Windsurf
 
 ## Features
 
